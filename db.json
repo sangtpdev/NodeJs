@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "lion",
+      "id": "oBROYsq1z"
+    },
+    {
+      "name": "Dog",
+      "id": "0c1_hD8RC"
+    },
+    {
+      "name": "Cat",
+      "id": "zrDWp74A6"
+    },
+    {
+      "name": "lion",
+      "phone": "123456",
+      "id": "0toUHYVRB"
+    },
+    {
+      "name": "Snake",
+      "phone": "09359432",
+      "id": "T8HE2DT3s"
+    },
+    {
+      "name": "Cat",
+      "phone": "231920001",
+      "id": "XOfEUDqGn"
+    },
+    {
+      "name": "Duong",
+      "phone": "095520005",
+      "id": "QN-8uWgeP"
+    }
+  ]
+}
